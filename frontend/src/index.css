@@ -1,0 +1,14 @@
+/* Este primeiro bloco "estica" a página para ocupar toda a janela do navegador */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Este bloco diz para o nosso mapa (que tem a "etiqueta" de classe .map-container) 
+   ocupar todo esse espaço disponível */
+.map-container {
+  height: 100%;
+  width: 100%;
+}
