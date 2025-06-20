@@ -13,3 +13,5 @@ npm-debug.log*
 
 # VSCode
 .vscode/
+# Ignorar arquivos de texto com senhas ou anotações
+*.txt
